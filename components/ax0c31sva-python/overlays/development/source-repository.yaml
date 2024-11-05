@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ax0c31sva-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ax0c31sva-python
